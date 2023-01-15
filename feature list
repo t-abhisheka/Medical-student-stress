@@ -1,0 +1,25 @@
+part c psychological_score_avarage_features
+    family_type
+    sex
+
+part d use of informational support avarage features
+    age
+
+part d positive reframing avarage features
+    study_year
+
+part d humor avarage features
+    university
+
+part d acceptance avarage features
+    religion
+
+part d self distraction avarage features
+    religion
+
+part d denial avarage features
+    age
+
+part d substance use avarage features 
+    residence
+    religion
