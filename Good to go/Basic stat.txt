@@ -1,0 +1,88 @@
+university  
+University of Colombo                122
+University of Kelaniya               124
+University of Peradeniya             143
+University of Ruhuna                 126
+University of Sri Jayawardanapura    147
+
+
+batch
+16/17    108
+17/18    183
+18/19    156
+19/20    120
+20/21     95
+
+
+sex
+Female    338
+Male      324
+
+
+age
+19      2
+20     23
+21     48
+22     85
+23    150
+24    167
+25    145
+26     35
+27      7
+Mean - 23.501510574018127
+Median - 24
+
+
+
+nationality
+Bhutanese       3
+Sri Lankan    659
+
+
+relationship_status
+In a Romantic Relationship    271
+Married                        18
+Now single                      1
+Separated                       1
+Single                        371
+
+
+religion
+Athiest          21
+Buddhism        417
+Christianity     84
+Hindu            44
+Islam            96
+
+
+residence
+Boarding Place    239
+Home              104
+Hostel            319
+
+
+family_type
+Extended    106
+Nuclear     556
+
+
+study_year   
+1     92
+2    137
+3    177
+4    193
+5     63
+
+
+study_year   
+1     92
+2    137
+3    177
+4    193
+5     63
+
+
+stress_level_part_b
+high_perceived_stress    133
+low_stress                17
+moderate_stress          506
