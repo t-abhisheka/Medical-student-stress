@@ -1,0 +1,13 @@
+1 clean and reorganise the data set(removing duplicates)
+
+2 calculate the stress score according to formula
+
+3 categorise the data set by stress score to high, moderate and low
+
+4 group the data set by stress level
+
+5 Get the correlation matrix using "corr()" function in "pandas" library
+
+6 get the heat map using "heatmap()" function in "seaborn" library
+
+
